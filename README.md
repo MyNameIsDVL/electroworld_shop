@@ -1,2 +1,2 @@
 # electroworld_shop
-Change branch to see all code
+Change the branch to see the code
