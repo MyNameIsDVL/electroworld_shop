@@ -1,0 +1,46 @@
+body {
+    background: wheat;
+    overflow-x:hidden;
+ }
+
+.body {
+    position: absolute;
+    width: 50px;
+}
+
+.closef {
+position: absolute;
+top: 0;
+right: 14px;
+font-size: 42px;
+transform: rotate(45deg);
+cursor: pointer;
+}
+
+.closef:hover {
+    color: white;
+}
+
+.contener {
+    width: 100%;
+    max-width: 800px;
+    display: table;
+    margin: 150px auto 0;
+}
+
+.content {
+    width: 100%;
+    max-width: 600px;
+    display: table;
+    margin: 0 auto;
+    border: 3px solid #222222;
+    padding: 10px;
+}
+
+#titlepayment {
+    text-align: center;
+}
+
+p {
+    font-size: 16px;
+}
